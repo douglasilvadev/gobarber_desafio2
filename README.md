@@ -1,2 +1,3 @@
-## gobarber-desafio2
-Projeto feito em base a aula inicial do GoBarber com node, sucrase, nodemon, postgres, yup, express e sequelize
+## Gobarber- desafio 2 
+
+Projeto feito em base a aula inicial GoBarber utilizando node, express, sucrase, nodemon, postgres (docker), jwt, yup e sequelize além de requests via Insominia e Postbird
